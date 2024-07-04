@@ -1,0 +1,1 @@
+This repository is dedicated to hosting and storing my CVs. It contains various versions of my CV tailored for different positions and sectors in which I am interested in working. Each version is optimized for specific skills and experiences relevant to particular industries or roles.
